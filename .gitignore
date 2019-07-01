@@ -47,4 +47,4 @@ testem.log
 Thumbs.db
 
 !main/node-printer
-main/*.js
+main/**.js
